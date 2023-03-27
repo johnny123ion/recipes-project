@@ -1,1 +1,1 @@
-# recipes-project
+The current project is a webpage that contains some recipes. I hope to be able to gain some skills on how to create some basic HTML pages
